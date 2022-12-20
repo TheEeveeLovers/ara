@@ -1,0 +1,5 @@
+<svg height="210" width="500">
+  <polygon points="190,20 280,200 100,200" style="fill:rgb(144,165,252);stroke:rgb(44,65,252);stroke-width:4" />
+  <text x="175" y="185" fill="red" textLength="32" lengthAdjust='spacingAndGlyphs'>ara</text>
+  Sorry, your browser does not support inline SVG.
+</svg>
