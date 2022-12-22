@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-  cout << "ara\n";
+  cout << "no\nara\nallowed\n";
   return 0;
 }
