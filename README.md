@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-Ara ara; it was a rainy night with a radioactive storm, this is definitely not a joke repository\
- <img src="https://github.com/TheEeveeLovers/ara/blob/main/ARA_logo.png?raw=true" alt="ARA repo logo"/>
+Ara ara; it was a rainy night with a radioactive storm, this is definitely not a joke repository
+ <img src="https://github.com/TheEeveeLovers/ara/blob/main/ARA_logo.png?raw=true" alt="ARA repo logo PNG"/>
+ <img src="https://github.com/TheEeveeLovers/ara/blob/main/ARA_logo.svg?raw=true" alt="ARA repo logo SVG"/>
 
 <br><b><h1>Instructions</h1></b>
 <h2>Compilation</h2>
