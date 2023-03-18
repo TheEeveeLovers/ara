@@ -5,7 +5,7 @@ Ara ara; it was a rainy night with a radioactive storm, this is definitely not a
 <br><b><h1>Instructions</h1></b>
 <h2>Compilation</h2>
 <p>Just compile and run the dang thing! It's that simple!</p>
-<p>It uses standard C++ libraries so if it is unable to compile, your compiler is missing stuff, is configured incorrectly, and/or doesn't have the base libraries.</p>
+<p>It uses standard C++ libraries so if it is unable to compile, your compiler is missing stuff, is configured incorrectly, and/or doesn't have the base libraries. (Which, now I think about it, falls under missing stuff.)</p>
 <p>When run, it should have the following output:<br>
 <samp>no<br>ara<br>allowed</samp></p>
 
