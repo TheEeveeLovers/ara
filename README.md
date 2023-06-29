@@ -5,10 +5,15 @@ Ara ara; it was a rainy night with a radioactive storm, this is definitely not a
 
 <br><b><h1>Instructions</h1></b>
 <h2>Compilation</h2>
-<p>Just compile and run the dang thing! It's that simple!</p>
+<p>Just compile the dang thing using your compiler of choice! It's that simple!</p>
 <p>It uses standard C++ libraries so if it is unable to compile, your compiler is missing stuff, is configured incorrectly, and/or doesn't have the base libraries. (Which, now I think about it, falls under missing stuff.)</p>
 <p>When run, it should have the following output:<br>
 <samp>no<br>ara<br>allowed</samp></p>
+<h2>Running</h2>
+<p>Just run with the command line!</p>
+<h3>Windows</h3>
+<p>Open CMD or your terminal of choice and navigate to the folder containing the compiled EXE</p>
+<p>Type the name of the EXE and press enter. It should immediately run.</p>
 
 <br><h2>Lorem ipsum</h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis tincidunt id aliquet risus feugiat in ante metus dictum. Urna nec tincidunt praesent semper feugiat nibh. Neque viverra justo nec ultrices dui sapien eget. Eget gravida cum sociis natoque penatibus et magnis dis parturient. Lacus viverra vitae congue eu consequat ac felis. Nibh tortor id aliquet lectus proin nibh. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Vitae ultricies leo integer malesuada nunc vel. In vitae turpis massa sed elementum tempus. Convallis convallis tellus id interdum velit laoreet id. Faucibus nisl tincidunt eget nullam non nisi est. Vel fringilla est ullamcorper eget. Felis donec et odio pellentesque diam volutpat. Gravida rutrum quisque non tellus. Turpis in eu mi bibendum neque egestas congue quisque egestas. Mi sit amet mauris commodo quis. Urna duis convallis convallis tellus id.
